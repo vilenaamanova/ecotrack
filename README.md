@@ -13,3 +13,8 @@
 - **React**
 - **Leaflet**
 - **OpenWeather API**
+
+![AltText](/img/img2.png?raw=true "Img")
+![AltText](/img/img1.png?raw=true "Img")
+![AltText](/img/img3.png?raw=true "Img")
+![AltText](/img/img4.png?raw=true "Img")
